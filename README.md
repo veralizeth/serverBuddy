@@ -49,7 +49,7 @@ Create a virtual environment:
 $ java
 ```
 
-### Setting Up Development and Test Databases
+## Setting Up Development and Test Databases
 
 Create a database:
 
